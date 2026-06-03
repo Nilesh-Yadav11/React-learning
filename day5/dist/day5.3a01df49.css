@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.Heading {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.img_myntra {
+  position: relative;
+  right: 60px;
+}
+
+.option {
+  padding-top: 20px;
+}
+
+.but {
+  background-color: #fff;
+  border: none;
+  height: 30px;
+  margin-right: 20px;
+  font-size: 20px;
+  position: relative;
+  right: 20px;
+}
+
+.searchbar {
+  border: .5px solid #000;
+  border-radius: 10px;
+  width: 400px;
+  height: 30px;
+  position: relative;
+  top: 7px;
+}
+
+.card {
+  color: #fff;
+  background-color: #268000;
+  font-family: Times New Roman, Times, serif;
+  font-size: 15px;
+}
+
+.profile {
+  padding-left: 50px;
+  font-size: 20px;
+  position: relative;
+  top: 7px;
+}
+
+.but1 {
+  background-color: #fff;
+  border: none;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.middle {
+  background-color: #f3f3cd;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.footer {
+  position: relative;
+  top: 50px;
+  right: 60px;
+}
+
+#comparison {
+  color: #fff;
+  background-color: #000;
+  border: none;
+}
+/*# sourceMappingURL=day5.3a01df49.css.map */
